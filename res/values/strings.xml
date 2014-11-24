@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Món ăn Việt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Món ăn Việt</string>
+    <string name="drawer_close">Món ăn 3 miền</string>
+    <string name="lookup_word">Món ăn Việt</string>
+    
+    <string-array name="drawer_title_array">
+        <item>Màn Hình Chính</item>
+        <item>Món ăn miền bắc</item>
+        <item>Món ăn miền trung</item>
+        <item>Món ăn miền nam</item>
+        <item>Giới Thiệu</item>
+        <item>Liên hệ</item>
+    </string-array>
+
+    <array name="drawer_icon_array">
+        <item>@drawable/ic_menu_home</item>
+        <item>@drawable/ic_mienbac</item>
+        <item>@drawable/ic_mientrung</item>
+        <item>@drawable/ic_miennam</item>
+        <item>@drawable/ic_gioithieu</item>
+        <item>@drawable/ic_lienhe</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
